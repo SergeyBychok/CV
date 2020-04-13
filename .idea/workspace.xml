@@ -3,34 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="053e29f4-17e7-422e-80e6-8661101d0437" name="Default" comment="update cv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
-    <ignored path="CV.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path=".idea/dataSources.local.xml" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="CV" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,54 +28,17 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Hypnotic</find>
-      <find>experience</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="081cc106-4fc1-4b20-bb19-e2fe0d1fa765" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1200" />
-  </component>
   <component name="ProjectId" id="1ZwIdcIz8HIAzqJTzw3csjPAk9b" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CV" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cv" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -100,19 +52,10 @@
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
@@ -142,6 +85,10 @@
       <workItem from="1531156181561" duration="273000" />
       <workItem from="1531295316628" duration="14000" />
       <workItem from="1564475135113" duration="3503000" />
+      <workItem from="1585743819136" duration="479000" />
+      <workItem from="1585896439556" duration="798000" />
+      <workItem from="1586514411872" duration="514000" />
+      <workItem from="1586760274603" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1484924703042</created>
@@ -157,63 +104,70 @@
       <option name="project" value="LOCAL" />
       <updated>1564478715786</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update cv">
+      <created>1585743915852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585743915852</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add projects">
+      <created>1585897245882</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585897245882</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update cv">
+      <created>1585897279170</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585897279170</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3790000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32920355" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32920355" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
+    <MESSAGE value="add projects" />
     <MESSAGE value="update cv" />
     <option name="LAST_COMMIT_MESSAGE" value="update cv" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="772" y="268" key="CommitChangelistDialog2" timestamp="1585897304779">
+      <screen x="42" y="23" width="1878" height="1177" />
+    </state>
+    <state x="746" y="268" key="CommitChangelistDialog2/-1878.23.1878.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1585743915713" />
+    <state x="772" y="268" key="CommitChangelistDialog2/42.23.1878.1177@42.23.1878.1177" timestamp="1585897304779" />
+    <state x="390" y="84" key="DiffContextDialog" timestamp="1585897317102">
+      <screen x="42" y="23" width="1878" height="1177" />
+    </state>
+    <state x="356" y="84" key="DiffContextDialog/-1878.23.1878.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1585743909091" />
+    <state x="390" y="84" key="DiffContextDialog/42.23.1878.1177@42.23.1878.1177" timestamp="1585897317102" />
+    <state x="611" y="147" key="SettingsEditor" timestamp="1586760299999">
+      <screen x="42" y="23" width="1878" height="1177" />
+    </state>
+    <state x="611" y="147" key="SettingsEditor/42.23.1878.1177@42.23.1878.1177" timestamp="1586760299999" />
+    <state x="749" y="306" key="Vcs.Push.Dialog.v2" timestamp="1585897318356">
+      <screen x="42" y="23" width="1878" height="1177" />
+    </state>
+    <state x="723" y="306" key="Vcs.Push.Dialog.v2/-1878.23.1878.1057/0.23.1920.1177@0.23.1920.1177" timestamp="1585743917910" />
+    <state x="749" y="306" key="Vcs.Push.Dialog.v2/42.23.1878.1177@42.23.1878.1177" timestamp="1585897318356" />
+    <state x="914" y="437" key="git4idea.rebase.GitRebaseDialog" timestamp="1585897288178">
+      <screen x="42" y="23" width="1878" height="1177" />
+    </state>
+    <state x="914" y="437" key="git4idea.rebase.GitRebaseDialog/42.23.1878.1177@42.23.1878.1177" timestamp="1585897288178" />
+    <state x="885" y="302" key="git4idea.rebase.GitRebaseEditor" timestamp="1585897293678">
+      <screen x="42" y="23" width="1878" height="1177" />
+    </state>
+    <state x="885" y="302" key="git4idea.rebase.GitRebaseEditor/42.23.1878.1177@42.23.1878.1177" timestamp="1585897293678" />
+    <state x="992" y="463" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1585897299562">
+      <screen x="42" y="23" width="1878" height="1177" />
+    </state>
+    <state x="992" y="463" key="git4idea.rebase.GitUnstructuredEditor/42.23.1878.1177@42.23.1878.1177" timestamp="1585897299562" />
   </component>
 </project>
